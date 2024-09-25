@@ -1,0 +1,11 @@
+.sign{
+  display: inline-block;
+}
+.card{
+    border: 1px solid #4cb7ed;
+    background-color: #4cb7ed;
+    width: 200px;
+    align-items: center;
+    margin-left: 550px;
+    margin-top: 250px;
+}
